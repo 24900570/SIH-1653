@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
 # Date: 26/02/2025
 ## Register Number:212224240074
-## Name: KATHI HASINI
+## Name: YOGESH D
 ## Problem Title
 SIH 1653: Web based Selector-Applicant Simulation Software
 ## Problem Description
@@ -35,9 +35,9 @@ Payment Gateway: Razorpay / Stripe
 
 DEPENDENCIES
 
-Frontend Development: 15 days
+Frontend Development: 20 days
 
-Backend Development: 20 days
+Backend Development: 25 days
 
 Database Setup: 10 days
 
