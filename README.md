@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop
-# Date: 26/02/2025
-## Register Number:212224040371
-## Name: YOGESH D
+# Date: 21/03/25
+## Register Number:212224230012
+## Name: AJITH.A
 ## Problem Title
 SIH 1653: Web based Selector-Applicant Simulation Software
 ## Problem Description
@@ -39,12 +39,12 @@ Frontend Development: 20 days
 
 Backend Development: 25 days
 
-Database Setup: 10 days
+Database Setup: 19 days
 
-Testing and Deployment: 15 days
+Testing and Deployment: 35 days
 
 BUDGET:
 
-Rs. 50,000
+Rs. 80,000
 
 
